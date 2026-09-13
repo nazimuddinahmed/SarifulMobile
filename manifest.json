@@ -1,0 +1,25 @@
+{
+  "name": "Sariful Mobile Phone Repairing",
+  "short_name": "Sariful Mobile",
+  "description": "Mobile phone sales and repairing service at Mahipal, Dakshin Dinajpur.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#007bff",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "shop.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "shop.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
